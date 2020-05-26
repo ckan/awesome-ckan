@@ -2,3 +2,27 @@
 
 > A curated list of awesome things related to CKaN
 
+## Awesome CKAN extensions
+
+| Name | Description |
+|---|---|
+| [Organization Dashboard](https://github.com/ViderumGlobal/ckanext-orgdashboards) | CKAN extension for creating organization dashboards.
+| [Disqus](https://github.com/ckan/ckanext-disqus) | Extension that adds the Disqus commenting system to CKAN.
+| [Google Analytics](https://github.com/ckan/ckanext-googleanalytics) | CKAN extension to integrate Google Analytics data into CKAN. Gives download stats on package pages, list of most popular packages, etc.
+| [Harvest](https://github.com/ckan/ckanext-harvest) | This extension provides a common harvesting framework for ckan extensions and adds a CLI and a WUI to CKAN to manage harvesting sources and jobs.
+| [Spatial](https://github.com/ckan/ckanext-spatial) | This extension contains plugins that add geospatial capabilities to CKAN.
+| [Realtime](https://github.com/alexandrainst/ckanext-realtime) | CKAN plugin which makes your CKAN site into a Realtime Data Portal.
+| [Dataspatial](https://github.com/NaturalHistoryMuseum/ckanext-dataspatial) | Dataspatial is a Ckan extension to provide geospatial awareness of datastore data.
+| [Request Data](https://github.com/ViderumGlobal/ckanext-requestdata) | This extension introduces a new type of dataset in which access to data is by request.
+| [Organization Portals](https://github.com/ViderumGlobal/ckanext-orgportals) | CKAN extension for creating organization portals.
+| [Data Solr](https://github.com/NaturalHistoryMuseum/ckanext-datasolr) | Datasolr is a Ckan extension to use Solr for datastore queries.
+| [Central Authentication Service](https://github.com/keitaroinc/ckanext-cas) | CAS (Central Authentication Service) client extension for CKAN.
+| [S3 File Store](https://github.com/keitaroinc/ckanext-s3filestore) | Use Amazon S3 as a filestore for CKAN.
+| [C3 Charts](https://github.com/ViderumGlobal/ckanext-c3charts) | c3js based charts for CKAN.
+| [Cloud Storage](https://github.com/TkTech/ckanext-cloudstorage) | Implements support for resource storage against multiple popular providers via apache-libcloud (S3, Azure Storage, etc...).
+| [DCAT](https://github.com/ckan/ckanext-dcat) | This extension provides plugins that allow CKAN to expose and consume metadata from other catalogs using RDF documents serialized using DCAT.
+| [Fluent](https://github.com/ckan/ckanext-fluent) | This extension provides a way to store and return multilingul fields in CKAN datasets, resources, organizations and groups.
+| [Map Views](https://github.com/ckan/ckanext-mapviews) | CKAN Resource View to build maps and choropleth maps.
+| [OData](https://github.com/jqnatividad/ckanext-odata) | CKAN OData support to connect to tools like Tableau.
+| [Pages](https://github.com/ckan/ckanext-pages) | This extension gives you an easy way to add simple pages to CKAN.
+| [Geospatial](https://github.com/ckan/ckanext-spatial) | This extension contains plugins that add geospatial capabilities to CKAN.
