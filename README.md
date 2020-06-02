@@ -26,3 +26,27 @@
 | [OData](https://github.com/jqnatividad/ckanext-odata) | CKAN OData support to connect to tools like Tableau.
 | [Pages](https://github.com/ckan/ckanext-pages) | This extension gives you an easy way to add simple pages to CKAN.
 | [Geospatial](https://github.com/ckan/ckanext-spatial) | This extension contains plugins that add geospatial capabilities to CKAN.
+
+## SDKs and Tools
+
+**Python**
+
+* **`ckanapi`** A command line interface and Python module for accessing the CKAN Action API - https://github.com/ckan/ckanapi - @wardi and CKAN team
+* **`ckan-api-client`** Python client for Ckan API - https://github.com/opendatatrentino/ckan-api-client - @opendatatrentino
+
+**Javascript**
+
+* **`ckan.js`** Javascript client library for CKAN with support for Node and the browser - https://github.com/okfn/ckan.js - @rufuspollock 
+
+Command Line 📟 
+
+* **`ckanapi`** A command line interface and Python module for accessing the CKAN Action API - https://github.com/ckan/ckanapi - @wardi and CKAN team
+
+## Awesome CKAN Instances
+
+* 🇺🇸 🏛️ Official US Federal Government Data Portal - https://catalog.data.gov 
+* 🇨🇦 🏛️ Official Canadian Government Data Portal - https://open.canada.ca/en/open-data
+* 🇨🇦 🏛️ Official Ontario Government Data Portal - https://data.ontario.ca/
+* 🌍 ⛑️ Humanitarian Data Exchange - https://data.humdata.org/
+
+See more at https://ckan.org/about/instances/
