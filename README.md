@@ -2,7 +2,7 @@
 
 > A curated list of awesome things related to CKaN
 
-## Awesome CKAN extensions
+## Extensions
 
 | Name | Description |
 |---|---|
@@ -42,7 +42,7 @@ Command Line 📟
 
 * **`ckanapi`** A command line interface and Python module for accessing the CKAN Action API - https://github.com/ckan/ckanapi - @wardi and CKAN team
 
-## Awesome CKAN Instances
+## CKAN Instances
 
 * 🇺🇸 🏛️ Official US Federal Government Data Portal - https://catalog.data.gov 
 * 🇨🇦 🏛️ Official Canadian Government Data Portal - https://open.canada.ca/en/open-data
@@ -50,3 +50,8 @@ Command Line 📟
 * 🌍 ⛑️ Humanitarian Data Exchange - https://data.humdata.org/
 
 See more at https://ckan.org/about/instances/
+
+## Deployment
+
+* **OpenShift** - https://github.com/dagniel/ckan-on-openshift by @dagniel - more details in https://github.com/ckan/ideas/issues/226
+* **Kubernetes** - https://github.com/datopian/ckan-cloud-helm - full thread here https://github.com/ckan/ideas/issues/206
