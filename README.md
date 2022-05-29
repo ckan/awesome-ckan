@@ -26,6 +26,7 @@
 | [OData](https://github.com/jqnatividad/ckanext-odata) | CKAN OData support to connect to tools like Tableau.
 | [Pages](https://github.com/ckan/ckanext-pages) | This extension gives you an easy way to add simple pages to CKAN.
 | [Geospatial](https://github.com/ckan/ckanext-spatial) | This extension contains plugins that add geospatial capabilities to CKAN.
+| [Datastore Refresh](https://github.com/salsadigitalauorg/ckanext-datastore-refresh) | Resubmits resources at configurable period when resource is set as URL.
 
 ## SDKs and Tools
 
