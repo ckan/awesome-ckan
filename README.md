@@ -30,16 +30,16 @@
 
 ## SDKs and Tools
 
-**Python**
+### Python
 
 * **`ckanapi`** A command line interface and Python module for accessing the CKAN Action API - https://github.com/ckan/ckanapi - @wardi and CKAN team
 * **`ckan-api-client`** Python client for Ckan API - https://github.com/opendatatrentino/ckan-api-client - @opendatatrentino
 
-**Javascript**
+### Javascript
 
-* **`ckan.js`** Javascript client library for CKAN with support for Node and the browser - https://github.com/okfn/ckan.js - @rufuspollock 
+* **`ckan.js`** Javascript client library for CKAN with support for Node and the browser - https://github.com/okfn/ckan.js - @okfn, @datopian (@rufuspollock originally plus various contributors)
 
-Command Line 📟 
+### Command Line 📟 
 
 * **`ckanapi`** A command line interface and Python module for accessing the CKAN Action API - https://github.com/ckan/ckanapi - @wardi and CKAN team
 
