@@ -4,6 +4,10 @@
 
 ## Extensions
 
+----------------
+
+### Actively Maintained
+
 | Name | Description |
 |---|---|
 | [Organization Dashboard](https://github.com/ViderumGlobal/ckanext-orgdashboards) | CKAN extension for creating organization dashboards.
@@ -12,7 +16,6 @@
 | [Harvest](https://github.com/ckan/ckanext-harvest) | This extension provides a common harvesting framework for ckan extensions and adds a CLI and a WUI to CKAN to manage harvesting sources and jobs.
 | [Spatial](https://github.com/ckan/ckanext-spatial) | This extension contains plugins that add geospatial capabilities to CKAN.
 | [Realtime](https://github.com/alexandrainst/ckanext-realtime) | CKAN plugin which makes your CKAN site into a Realtime Data Portal.
-| [Dataspatial](https://github.com/NaturalHistoryMuseum/ckanext-dataspatial) | Dataspatial is a Ckan extension to provide geospatial awareness of datastore data.
 | [Request Data](https://github.com/ViderumGlobal/ckanext-requestdata) | This extension introduces a new type of dataset in which access to data is by request.
 | [Organization Portals](https://github.com/ViderumGlobal/ckanext-orgportals) | CKAN extension for creating organization portals.
 | [Data Solr](https://github.com/NaturalHistoryMuseum/ckanext-datasolr) | Datasolr is a Ckan extension to use Solr for datastore queries.
@@ -26,7 +29,13 @@
 | [OData](https://github.com/jqnatividad/ckanext-odata) | CKAN OData support to connect to tools like Tableau.
 | [Pages](https://github.com/ckan/ckanext-pages) | This extension gives you an easy way to add simple pages to CKAN.
 | [Geospatial](https://github.com/ckan/ckanext-spatial) | This extension contains plugins that add geospatial capabilities to CKAN.
-| [Datastore Refresh](https://github.com/salsadigitalauorg/ckanext-datastore-refresh) | Resubmits resources at configurable period when resource is set as URL.
+| [Datastore Refresh](https://github.com/salsadigitalauorg/ckanext-datastore-refresh) | Resubmits resources at configurable period when resource is uploaded via URL.
+
+### Archived/Unmaintained
+
+| Name | Description | Status |
+|---|---|---|
+| [Dataspatial](https://github.com/NaturalHistoryMuseum/ckanext-dataspatial) | Dataspatial is a Ckan extension to provide geospatial awareness of datastore data. | Not maintained
 
 ## SDKs and Tools
 
